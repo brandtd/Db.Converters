@@ -62,6 +62,7 @@
     <Compile Include="DistanceToStringConverter.cs" />
     <Compile Include="DoubleValidityToVisibilityConverter.cs" />
     <Compile Include="EnumerableDistanceToDoubleCollectionConverter.cs" />
+    <Compile Include="IpAddressToStringConverter.cs" />
     <Compile Include="IsTrueAndIsNumberToVisibilityConverter.cs" />
     <Compile Include="LatitudeToStringConverter.cs" />
     <Compile Include="LocationToPositionConverter.cs" />
